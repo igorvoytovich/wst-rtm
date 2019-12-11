@@ -1,9 +1,6 @@
 module CWstAgoraRtm [system] {
 
-    header "./AgoraBase.h"
-    header "./IAgoraRtmCallManager.h"
-    header "./IAgoraRtmService.h"
-    header "./IAgoraService.h"
+    header "usr/local/include/AgoraBase.h"
 
     link "CWstAgoraRtm"
 
