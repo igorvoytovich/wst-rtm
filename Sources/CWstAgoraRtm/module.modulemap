@@ -1,0 +1,12 @@
+module CWstAgoraRTM [system] {
+
+    header "usr/include/AgoraBase.h"
+    header "usr/include/IAgoraRtmCallManager.h"
+    header "usr/include/IAgoraRtmService.h"
+    header "usr/include/IAgoraService.h"
+
+    link "CWstAgoraRTM"
+
+    export *
+
+}
