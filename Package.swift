@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "CWstAgoraRtm",
     products: [
-        .library(name: "CWstAgoraRtm", targets: ["CWstAgoraRtm"]),
+        .library(name: "CWstAgoraRtm", targets: ["CWstAgoraRtm"])
     ],
     targets: [
         .systemLibrary(name: "CWstAgoraRtm")
