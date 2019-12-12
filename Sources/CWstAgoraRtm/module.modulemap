@@ -1,6 +1,6 @@
 module CWstAgoraRtm [system] {
 
-    header <usr/local/include/AgoraBase.h>
+    header "usr/local/include/AgoraBase.h"
 
     link "CWstAgoraRtm"
 
